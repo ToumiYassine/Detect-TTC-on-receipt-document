@@ -1,5 +1,5 @@
 # Detect-TTC-on-receipt-document
-Detect TTC on receipt document with Transformers Approach   : LayoutMLv3
+Detect TTC on receipt document with Transformers Approach   : LayoutLMv3
 
 
 Dataset : naver-clova-ix/cord-v2 from Hugging Face  :  "https://huggingface.co/datasets/naver-clova-ix/cord-v2"
